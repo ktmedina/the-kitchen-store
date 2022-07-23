@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Pavlova",
+        "price": 22.75,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
+        "img": "./assets/img/pavlova.jpg",
+        "ingredients": [
+            "Sugar",
+            "Eggs",
+            "Lemon juice",
+            "Fruits"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Carrot cake",
+        "price": 17.45,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
+        "img": "./assets/img/carrotcake.JPG",
+        "ingredients": [
+            "Sugar",
+            "Eggs",
+            "Carrot",
+            "Flour",
+            "Butter"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Lemon Pie",
+        "price": 12.50,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
+        "img": "./assets/img/limepie.jpg",
+        "ingredients": [
+            "Sugar",
+            "Eggs",
+            "Lemon juice",
+            "Condensed milk",
+            "Newton cookies"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Brownie",
+        "price": 18.20,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
+        "img": "./assets/img/brownie.jpg",
+        "ingredients": [
+            "Sugar",
+            "Eggs",
+            "Chocolate",
+            "Flour"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Chocolate cake",
+        "price": 32.50,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
+        "img": "./assets/img/chococake.jpg",
+        "ingredients": [
+            "Sugar",
+            "Eggs",
+            "Cocoa powder",
+            "Flour",
+            "Salt"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Red Velvet cake",
+        "price": 25.75,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
+        "img": "./assets/img/redvelvet.JPG",
+        "ingredients": [
+            "Sugar",
+            "Eggs",
+            "Flour",
+            "Cocoa powder",
+            "Sour milk"
+        ]
+    }
+]
